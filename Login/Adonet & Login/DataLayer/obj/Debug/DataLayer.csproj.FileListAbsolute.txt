@@ -1,0 +1,10 @@
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,33 @@
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90553\Downloads\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Yunus EMRE\AppData\Local\Temp\Rar$DRa18200.19962\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90553\Downloads\Yeni (1)\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\90553\Desktop\GPRO\GPRO\GörselProgramlamaÖdev\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
